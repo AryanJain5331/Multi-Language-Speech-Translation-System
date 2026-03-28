@@ -503,7 +503,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - LinkedIn: [linkedin.com/in/aryan-jain232](https://www.linkedin.com/in/aryan-jain232/)
 - GitHub: [@AryanJain5331](https://github.com/AryanJain5331)
 
-**Project Link:** [https://github.com/AryanJain5331/multilingual-speech-translator](https://github.com/AryanJain5331/multilingual-speech-translator)
+**Project Link:** [https://github.com/AryanJain5331/multilingual-speech-translator](https://github.com/AryanJain5331/Multi-Language-Speech-Translation-System)
 
 ---
 
