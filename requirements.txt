@@ -1,0 +1,16 @@
+# Multi-Language Speech Translation System - Dependencies
+
+# Speech Recognition
+SpeechRecognition
+PyAudio  # For microphone access
+
+# Translation
+deep-translator
+
+# Text-to-Speech
+pyttsx3
+
+# Language Detection (included in deep-translator)
+# Additional utilities
+setuptools
+langdetect
