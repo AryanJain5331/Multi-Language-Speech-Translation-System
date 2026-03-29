@@ -513,7 +513,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Deep-Translator:** GoogleTranslator backend
 - **Pyttsx3:** Offline text-to-speech engine
 - **Inspiration:** Breaking language barriers with AI
-- **Award:** 2nd Place, 7th Technovation Competition, Poornima College of Engineering
 
 ---
 
