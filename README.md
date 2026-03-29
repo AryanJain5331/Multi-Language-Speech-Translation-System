@@ -97,8 +97,8 @@ The **Multi-Language Speech Translation System** is a Python-based CLI applicati
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/AryanJain5331/multilingual-speech-translator.git
-cd multilingual-speech-translator
+git clone https://github.com/AryanJain5331/Multi-Language-Speech-Translation-System.git
+cd Multi-Language-Speech-Translation-System
 ```
 
 2. **Install required packages**
