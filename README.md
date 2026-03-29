@@ -45,7 +45,7 @@ The **Multi-Language Speech Translation System** is a Python-based CLI applicati
 - 📝 **Translation History** with automatic save functionality
 - 🧩 **Modular Architecture** for easy maintenance and extension
 
-**🏆 Achievement:** 2nd Place at 7th Technovation (Paper & Model Contest) - Poornima College of Engineering, 2025
+
 
 ---
 
